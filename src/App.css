@@ -1,0 +1,11 @@
+.navbar-brand {
+  font-family: 'Sonsie One', cursive;
+}
+.saludo {
+  margin: 20px;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: darkslateblue;
+  text-align: center;
+}
